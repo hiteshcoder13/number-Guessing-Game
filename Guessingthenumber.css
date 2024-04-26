@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+   border: 2px solid black;
+   background: linear-gradient(rgb(201, 201, 85), rgb(221, 162, 53));
+   margin-left: 400px;
+   margin-right: 400px;
+   padding-bottom: 20px;
+   border-radius: 8%;
+}
+
+.congrats{
+    text-align: center;
+    visibility: hidden;
+}
+
+#number{
+    font-size: 2rem;
+}
+#btn1{
+    font-size: 1.5rem;
+}
+#btn0{
+    font-size: 2rem;
+}
+
+#congo{
+    font-size: 2.5rem;
+}
+
+#result{
+    font-size: 2rem;
+}
+
+#tryagain{
+    height: 100px;
+    width: 200px;
+    margin-top: 20px;
+    background: linear-gradient(rgb(201, 201, 85), rgb(221, 162, 53));
+    visibility: hidden;
+}
+
+#congoimg{
+    height: 170px;
+    width: 900px;
+}
